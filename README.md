@@ -23,7 +23,7 @@
       
       Output: Returns shortCode, shortUrl, and expiry
       
-      <p align="center"> <img width="1392" height="837" alt="Shortening URL" src="https://github.com/user-attachments/assets/d80d5099-00ba-4690-9cee-52d6e247e536" /> </p>
+      <img width="1392" height="837" alt="image" src="https://github.com/user-attachments/assets/d80d5099-00ba-4690-9cee-52d6e247e536" />
       
       ✅ API successfully creates a short link.
 
@@ -51,7 +51,7 @@
       
       clicks
       
-      <p align="center"> <img width="1572" height="776" alt="MongoDB Records" src="https://github.com/user-attachments/assets/0d435848-6b76-447e-9e37-03ee5a3cf2bc" /> </p>
+      <img width="1315" height="775" alt="image" src="https://github.com/user-attachments/assets/f91c2884-8d0e-45d7-9ff8-ce51f7bb2402" />
 
       ✅ Data model perfectly matches the design document, and records persist as expected.
 
